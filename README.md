@@ -1,36 +1,44 @@
 <div align="center">
   <img src="favicon2.jpg" alt="Delhi Sudarshan Logo" width="120" height="120">
   
-  # दिल्ली SUDARSHAN | Future Governance
+  <h1>दिल्ली SUDARSHAN | Future Governance</h1>
   
-  **Bridging Voice to Vision — An AI-Powered Civic Command Center**
+  <strong>Bridging Voice to Vision — An AI-Powered Civic Command Center</strong>
+  <br><br>
   
-  [![Status](https://img.shields.io/badge/System-Online-success?style=for-the-badge&logo=statuspage)](https://jatinkhandelwal662-jk.github.io/Delhi-Sudarshan-frontend/)
-  [![Deploy](https://img.shields.io/badge/Live_Demo-Click_Here-FF5722?style=for-the-badge&logo=vercel)](https://jatinkhandelwal662-jk.github.io/Delhi-Sudarshan-frontend/)
-  [![Voice](https://img.shields.io/badge/Voice_AI-Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google)](https://deepmind.google/technologies/gemini/)
+  <a href="https://jatinkhandelwal662-jk.github.io/Delhi-Sudarshan-frontend/">
+    <img src="https://img.shields.io/badge/System-Online-success?style=for-the-badge&logo=statuspage" alt="Status">
+  </a>
+  <a href="https://jatinkhandelwal662-jk.github.io/Delhi-Sudarshan-frontend/">
+    <img src="https://img.shields.io/badge/Live_Demo-Click_Here-FF5722?style=for-the-badge&logo=vercel" alt="Deploy">
+  </a>
+  <a href="https://deepmind.google/technologies/gemini/">
+    <img src="https://img.shields.io/badge/Voice_AI-Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=google" alt="Voice">
+  </a>
 
   <p align="center">
     A next-generation governance OS for the <strong>Government of NCT of Delhi</strong>. <br>
     Features <strong>"Legacy Tunneling"</strong> architecture, <strong>"Citizen Feedback Loop"</strong> verification loops, and <strong>Zero-UI</strong> citizen interaction.
   </p>
-</div>
-<center>
-<div align="center">
-  <div>
-      <b>VAANI</b>
-    <br>
-    <a href="https://vaani-khaki.vercel.app/" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://vaani-khaki.vercel.app/</a>
-    **Open this on a mobile device** how citizen can register a complaint through our ai voice agent. <br>
-  </div>
+
   <br>
-  <div>
-    <b>CITIZEN CALL DEMO:</b>
-    <br>
-    <a href="https://delhi-sudarshan-backend.onrender.com/citizen.html" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://delhi-sudarshan-backend.onrender.com/citizen.html</a>
-    **Open this on a mobile device** to receive the call from the AI.
-  </div>
+  <hr>
+  <br>
+
+  <h3>🎙️ VAANI (Voice Agent)</h3>
+  <a href="https://vaani-khaki.vercel.app/" style="font-size:1.1em; font-weight:600; color:#007bff; text-decoration:none;">vaani-khaki.vercel.app</a>
+  <p>
+    <strong>Open this on a mobile device</strong> to see how a citizen can register a complaint through our AI voice agent.
+  </p>
+
+  <br>
+
+  <h3>📞 CITIZEN CALL DEMO</h3>
+  <a href="https://delhi-sudarshan-backend.onrender.com/citizen.html" style="font-size:1.1em; font-weight:600; color:#007bff; text-decoration:none;">delhi-sudarshan-backend.onrender.com/citizen.html</a>
+  <p>
+    <strong>Open this on a mobile device</strong> to receive the verification call from the AI.
+  </p>
 </div>
-</center>
 
 ---
 
@@ -42,7 +50,10 @@ It acts as an **intelligent middleware** that tunnels into existing government l
 
 ### 🔗 [**CLICK HERE TO VIEW LIVE DASHBOARD**]https://delhi-sudarshan-frontend.vercel.app/<br>
 
+**FRONTEND REPO:** [Click Here](https://github.com/jatinkhandelwal662-jk/Delhi-Sudarshan)
+<br>
 **VAANI REPO:** [Click Here](https://github.com/jatinkhandelwal662-jk/Vaani)
+<br>
 **BACKEND REPO:** [Click Here](https://github.com/jatinkhandelwal662-jk/Delhi-Sudarshan-backend) 
 
 ---

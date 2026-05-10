@@ -17,15 +17,17 @@
 <center>
 <div align="center">
   <div>
-      <b>VAANI GITHUB REPO</b>
+      <b>VAANI</b>
     <br>
-    <a href="https://github.com/jatinkhandelwal662-jk/Vaani" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://github.com/jatinkhandelwal662-jk/Vaani</a>
+    <a href="https://vaani-khaki.vercel.app/" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://vaani-khaki.vercel.app/</a>
+    **Open this on a mobile device** how citizen can register a complaint through our ai voice agent. <br>
   </div>
   <br>
   <div>
-    <b>BACKEND GITHUB REPO</b>
+    <b>CITIZEN CALL DEMO:</b>
     <br>
-    <a href="https://github.com/jatinkhandelwal662-jk/Delhi-Sudarshan-backend" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://github.com/jatinkhandelwal662-jk/Delhi-Sudarshan-backend</a>
+    <a href="https://delhi-sudarshan-backend.onrender.com/citizen.html" style="font-size:1.08em; font-weight:500; color:#007bff; text-decoration:none;">https://delhi-sudarshan-backend.onrender.com/citizen.html</a>
+    **Open this on a mobile device** to receive the call from the AI.
   </div>
 </div>
 </center>
@@ -40,8 +42,8 @@ It acts as an **intelligent middleware** that tunnels into existing government l
 
 ### 🔗 [**CLICK HERE TO VIEW LIVE DASHBOARD**]https://delhi-sudarshan-frontend.vercel.app/<br>
 
-**VAANI:** [Click Here To Talk to Vaani](https://vaani-khaki.vercel.app) | **Open this on a mobile device** how citizen can register a complaint through our ai voice agent. <br>
-**CITIZEN CALL DEMO:** [Click Here For Citizen Call Demo](https://delhi-sudarshan-backend.onrender.com/citizen.html) | **Open this on a mobile device** to receive the call from the AI.
+**VAANI REPO:** [Click Here](https://github.com/jatinkhandelwal662-jk/Vaani)
+**BACKEND REPO:** [Click Here](https://github.com/jatinkhandelwal662-jk/Delhi-Sudarshan-backend) 
 
 ---
 
@@ -120,6 +122,15 @@ To ensure rapid response times and pinpoint accountability, we have moved away f
 * **AI Core:** Google Gemini 2.5 Flash (Native Audio-to-Audio Processing)
 * **Telephony:** Twilio Voice SDK (WebRTC) & Programmable SMS
 * **Deployment:** GitHub Pages (Frontend) + Render (Backend) + Vercel(AI-Voice Agent)
+
+---
+
+## Team TARS:
+
+* Riya Sharma
+* Khushi Dalal
+* Jatin Khandelwal
+* Bhavishya Bhati
 
 ---
 
